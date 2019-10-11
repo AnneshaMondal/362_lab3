@@ -259,3 +259,14 @@ textarea {
    font-family: 'Comic Sans MS', sans-serif;
    font-size: 25px;
  }
+
+ label{
+   padding:15px;
+ }
+form{
+  text-align: center;
+}
+.field{
+  padding-bottom: 20px;
+  font-size: 30px;
+}
