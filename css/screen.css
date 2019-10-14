@@ -279,7 +279,7 @@ h1{
   padding-bottom:20px;
 }
 
-input[name="Full Name"], input[name="e-mail"]{
+input[name="Full Name"], input[name="e-mail"], input[name="Allergies"]{
   text-align: center;
   font-family: 'Comic Sans MS', cursive;
   font-size: 20px;
