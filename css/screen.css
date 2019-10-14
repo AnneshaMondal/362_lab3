@@ -251,7 +251,7 @@ textarea {
  }
 
 
- body {
+body {
    background-color: #838487;
    margin-left: auto;
    margin-right: auto;
@@ -275,7 +275,7 @@ form{
   font-family: 'Comic Sans MS', sans-serif;
   text-align: center;
   font-size: 60px;
-  color: #A9A9A9
+  color: #A9A9A9;
   padding-bottom:35px;
   padding-top: 35px;
 }
@@ -295,4 +295,8 @@ input[type="submit"]{
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
+}
+
+.btn{
+  color:#C0C0C0;
 }
