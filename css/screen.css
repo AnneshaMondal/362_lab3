@@ -276,7 +276,8 @@ h1{
   text-align: center;
   font-size: 50px;
   color: #A9A9A9
-  padding-bottom:20px;
+  padding-bottom:35px;
+  padding-top: 35px;
 }
 
 input[name="Full Name"], input[name="e-mail"], input[name="Allergies"]{
