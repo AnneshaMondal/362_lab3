@@ -231,8 +231,8 @@ font-family: 'Mansalva', monospace, sans-serif;
 }
 
 input[type=checkbox]{
-	height: 1.5em;
-	width: 1.5em;
+	height: 3em;
+	width: 3em;
 	margin: 1em;
 }
 
