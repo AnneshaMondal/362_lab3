@@ -202,58 +202,50 @@ label {
   display: block;
 }
 
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 500px){
 	body{
 		font-family: 'Mansalva', monospace, sans-serif;
 		background-color: #3e423f;
 	}
 
-	h1{
-		text-align: center;
-		padding-bottom: 75px;
-		line-height: .9em;
-		font-size: 70px;
-		color: #d9d7d7;
-	}
-
-	#input-email{
-		margin-left: 400px;
-		font-size: 45px;
-		padding-top: 90px;
-	}
-
-	#email{
-		font-size: 45px;
-		margin:auto;
-		background-color: #838784;
-	}
-
-	#input-submit, #input-age-verification{
-		text-align: center;
-	}
-#input[type=checkbox]{
-	height: 1em;
-	width: 1em;
-	margin:1em;
+#text,#p{
+	text-align: center;
+	font-size: 0.5em;
+	padding: .5em .1em .5em .1em;
+	line-height: .9em;
+	color: #d9d7d7;
 }
 
-input[type=submit]{
+#input-email{
+	margin-left: 3%;
+	font-size: 2.5em;
+}
+
+#email{
+	width:80%;
+	margin: .2em 0em 1em 0em;
+	background: #838784;
+}
+
+input[type=checkbox]{
+	height: 1.5em;
+	width: 1.5em;
+	margin: 1em;
+}
+
+input[type=submit]
+{
 	background-color: #a8ada9;
 	text-align: center;
+	border: none;
+	border-radius: 1.5em;
 	display: inline-block;
+	padding: 20px 25px;
 	font-size: 2em;
-	margin-left: 0.5em;
+	margin: 0.7em;
 }
-	l1,h2,p{
-		text-align: center;
-		padding-bottom: 45px;
-		line-height: .9em;
-		font-size: 35px;
-		color:#d6d4d4;
-	}
+
+#input-age-verification, #input-submit{
+	text-align: center;
+	font-size: 1em;
 }
-/* ===== LAYOUT STYLES ====== */
-
-/* ===== MODULAR STYLES ===== */
-
-/* ===== STATE STYLES ======= */
