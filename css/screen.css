@@ -217,12 +217,14 @@ label {
 	}
 
 	#input-email{
+		margin-left: auto;
+		margin-right: auto;
 		font-size: 45px;
 		padding-top: 90px;
 	}
 
 	#email{
-		font-size: 65px;
+		font-size: 45px;
 		margin:auto;
 		background-color: #838784;
 	}
