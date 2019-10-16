@@ -235,13 +235,8 @@ textarea {
      width: 80%;
      float: none;
    }
-
-   input[type=email],
-   input[type=text],
-   input[type=date] {
-     width: 95%;
    }
- }
+
  @media screen and (max-width: 960px) {
    form > label,
  	legend {
