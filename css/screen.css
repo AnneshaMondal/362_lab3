@@ -186,6 +186,8 @@ textarea {
    height: auto;
  }
 
+
+
  /**
   * 1. Correct the odd appearance in Chrome and Safari.
   * 2. Correct the outline style in Safari.
@@ -271,7 +273,7 @@ form{
 h1{
   font-family: 'Comic Sans MS', sans-serif;
   text-align: center;
-  font-size: 60px;
+  font-size: 250px;
   color: #A9A9A9;
   padding-bottom:35px;
   padding-top: 35px;
