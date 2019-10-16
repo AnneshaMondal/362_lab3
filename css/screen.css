@@ -87,11 +87,7 @@ u,
 ul,
 var,
 video {
-margin: 0;
-padding: 0;
-border: 0;
-font: inherit;
-vertical-align: baseline
+mmargin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}html{line-height:1}body{line-height:inherit}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0
 }
 
 article,
@@ -434,6 +430,7 @@ input[type=submit] {
 	text-align: center;
 	font-size: 1em;
 }
+
 h1,
 p {
 	text-align: center;
