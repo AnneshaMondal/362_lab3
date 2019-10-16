@@ -224,6 +224,7 @@ font-family: 'Mansalva', monospace, sans-serif;
 
 #email{
 	width:80%;
+	padding-top: 200px;
 	margin: .2em 0em 1em 0em;
 	background: #838784;
 }
