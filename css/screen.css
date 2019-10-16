@@ -21,7 +21,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: 'Roboto Mono', monospace, serif; /* 1 */
+    font-family: 'Mansalva', sans-serif; /* 1 */
     font-size: 100%; /* 1 */
     line-height: 1.15; /* 1 */
     margin: 0; /* 2 */
@@ -204,9 +204,10 @@ label {
 
 
 @media only screen and (min-width: 500px) {
-body {
+	body{
 	font-family: 'Mansalva', monospace, sans-serif;
 	background-color: #3e423f;
+}
 }
 
 #text{
@@ -254,6 +255,7 @@ input[type=submit] {
 	font-size: 2em;
 	margin: 0.7em;
 }
+
 #input-age-verification
  {
 	text-align: center;
