@@ -252,3 +252,8 @@ input[type=submit]
 	text-align: center;
 	font-size: 1em;
 }
+
+h1,p{
+	text-align: center;
+	font-family: 'Mansalva', monospace, sans-serif;
+}
