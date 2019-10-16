@@ -261,12 +261,14 @@ body {
 form{
   text-align: center;
 }
+
+
 .field{
   padding-bottom: 20px;
   font-size: 30px;
 }
 
-.header{
+h1{
   font-family: 'Comic Sans MS', sans-serif;
   text-align: center;
   font-size: 60px;
