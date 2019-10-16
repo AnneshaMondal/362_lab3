@@ -224,7 +224,7 @@ label {
 	}
 
 	#email{
-		width: 80%
+		width: 50%
 		margin:auto;
 		background-color: #838784;
 	}
@@ -242,7 +242,7 @@ input[type=submit]{
 	background-color: #a8ada9;
 	text-align: center;
 	display: inline-block;
-	font-size: 0.5em;
+	font-size: 2em;
 	margin-left: 0.5em;
 }
 	l1,h2,p{
