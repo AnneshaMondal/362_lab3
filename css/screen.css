@@ -21,7 +21,7 @@ input,
 optgroup,
 select,
 textarea {
-  !!!!!! change this font-family: sans-serif; /* 1 */
+  font-family: 'Mansalva', monospace, sans-serif;
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
@@ -223,6 +223,28 @@ label {
 		padding-top: 50px;
 	}
 
+	#email{
+		width: 80%
+		margin:auto;
+		background-color: #838784;
+	}
+
+	#input-submit, #input-age-verification{
+		text-align: center;
+	}
+#input[type=checkbox]{
+	height: 1em;
+	width: 1em;
+	margin:1em;
+}
+
+input[type=submit]{
+	background-color: #a8ada9;
+	text-align: center;
+	display: inline-block;
+	font-size: 0.5em;
+	margin-left: 0.5em;
+}
 	l1,h2,p{
 		text-align: center;
 		padding-bottom: 45px;
