@@ -204,7 +204,7 @@ label {
 
 @media only screen and (min-width: 600px){
 	body{
-		font-family: 'Mansalva', sans-serif;
+		font-family: 'Mansalva', monospace, sans-serif;
 		background-color: #3e423f;
 	}
 
@@ -214,6 +214,13 @@ label {
 		line-height: .9em;
 		font-size: 70px;
 		color: #d9d7d7;
+	}
+
+	#input-email{
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 65px;
+		padding-top: 50px;
 	}
 
 	l1,h2,p{
