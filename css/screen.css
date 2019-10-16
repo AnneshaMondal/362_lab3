@@ -220,11 +220,11 @@ font-family: 'Mansalva', monospace, sans-serif;
 #input-email{
 	margin-left: 3%;
 	font-size: 2.5em;
+	padding-top: 200px;
 }
 
 #email{
 	width:80%;
-	padding-top: 200px;
 	margin: .2em 0em 1em 0em;
 	background: #838784;
 }
